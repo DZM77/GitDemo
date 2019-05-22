@@ -13,6 +13,8 @@ namespace GitDemo
             Console.WriteLine("DeskTop");
             Console.WriteLine("DeskTop second commit");
             Console.WriteLine("DeskTop third commit");
+            Console.WriteLine("DeskTop 1111");
+            Console.WriteLine("DeskTop 2222");
         }
     }
 }
